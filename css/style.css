@@ -1,22 +1,9 @@
-.section1 {
-    background-color: lemonchiffon;
+.bigt{
+    background-color:   greenyellow;
+}.main{
+    color: crimson;
 }
-
-.headers {
-    color: darkblue;
-}
-
-#email {
-    background-color: goldenrod;
-}
-
-#github {
-    background-color: lightsteelblue
-}
-
-#portfolio {
-    background-color: darkorange;
-}
-.section2 {
-    background-color: lime;
+.second{
+    background-color: black;
+    color: white;
 }
